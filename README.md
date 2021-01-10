@@ -9,4 +9,4 @@ link to our API: https://app.swaggerhub.com/apis/talish94/Assignment3.1/1.0.0
 link to the server: https://github.com/talish94/Recipes-Website-Backend
 
 
-# Bon Appétit ! ;)
+## Bon Appétit ! ;)
