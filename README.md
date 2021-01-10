@@ -4,4 +4,4 @@ Written by: Tair & Tali
 
 link to our API: https://app.swaggerhub.com/apis/talish94/Assignment3.1/1.0.0
 
-link to the server: https://github.com/SISE-Web-Development-Environments/assignment-3-2-tair_tali
+link to the server: https://github.com/talish94/Recipes-Website-Backend
